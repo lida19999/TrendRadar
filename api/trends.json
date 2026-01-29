@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:49:26.549069+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-01-29T16:51:57.459504+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时51分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -132,6 +133,20 @@
           "time_info": "12时44分"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 16时51分]"
+        },
+        {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
           "url": "https://wallstreetcn.com/livenews/3045843",
           "source": "华尔街见闻-快讯",
@@ -141,6 +156,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 16时51分]"
         },
         {
           "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
@@ -192,20 +219,6 @@
           "time_info": "[01时39分 ~ 02时47分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 15时49分]"
-        },
-        {
           "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
           "url": "https://flash.jin10.com/detail/20260129002712537800",
           "source": "金十数据",
@@ -216,18 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 01时39分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 15时49分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -1202,7 +1203,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1214,11 +1215,12 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 16时51分]"
         },
         {
           "title": "金价",
@@ -1291,7 +1293,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1339,6 +1341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
