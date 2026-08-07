@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:58:53.752532+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-08-07T19:52:43.743945+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -64,8 +64,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 18时58分]"
+          "appearance_count": 8,
+          "time_info": "[11时53分 ~ 19时52分]"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时52分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -78,18 +90,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时53分 ~ 17时06分]"
-        },
-        {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 18时58分]"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -109,7 +109,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -133,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时52分]"
         },
         {
           "title": "特朗普帖子抢先看合法吗",
@@ -168,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "美媒：特朗普拟投入逾1.8亿美元 推动采矿行业教育发展",
+          "url": "https://flash.jin10.com/detail/20260807190915827800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
@@ -225,6 +236,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "据CBS新闻：特朗普计划于周五宣布拨款超过1.8亿美元，用于加强采矿业的教育和贸易项目，这是提高关键矿产产量的举措之一。",
+          "url": "https://flash.jin10.com/detail/20260807190238913800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "特朗普承认部分弹药供应“相对紧张”",
           "url": "https://wallstreetcn.com/livenews/3146293",
           "source": "华尔街见闻-快讯",
@@ -275,7 +297,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         }
@@ -283,7 +305,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -293,8 +315,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时08分 ~ 18时58分]"
+          "appearance_count": 9,
+          "time_info": "[08时08分 ~ 19时52分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -317,11 +339,12 @@
             18,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时08分 ~ 18时58分]"
+          "appearance_count": 9,
+          "time_info": "[08时08分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -333,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -381,6 +415,17 @@
           "time_info": "[15时25分 ~ 18时58分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时52分]"
+        },
+        {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
           "url": "https://www.toutiao.com/trending/7671088097861307923/",
           "source": "今日头条",
@@ -390,17 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 13时46分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时58分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -428,8 +462,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时52分]"
+        },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
           "url": "https://www.cls.cn/detail/2447874",
@@ -442,17 +487,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时08分 ~ 15时25分]"
-        },
-        {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时58分]"
         },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
@@ -530,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -545,8 +590,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时08分 ~ 18时58分]"
+          "appearance_count": 9,
+          "time_info": "[08时08分 ~ 19时52分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -566,11 +611,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时52分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
