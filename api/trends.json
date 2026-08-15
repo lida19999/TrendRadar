@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-15T10:57:17.515570+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-08-15T11:47:19.411072+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
         {
           "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
           "url": "https://flash.jin10.com/detail/20260815042631790800",
@@ -68,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时47分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -83,8 +95,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 11时47分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -92,11 +104,62 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时36分 ~ 10时57分]"
+          "time_info": "[09时37分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://wallstreetcn.com/livenews/3149900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时47分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时47分]"
+        },
+        {
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
         },
         {
           "title": "特朗普称将宣布霍尔木兹海峡为美领土",
@@ -108,42 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时36分 ~ 09时37分]"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 10时57分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://wallstreetcn.com/livenews/3149900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 10时57分]"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 10时57分]"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -167,17 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 10时57分]"
-        },
-        {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "美国总统特朗普：美国有能力摧毁伊朗，但我们不想这样做。",
@@ -241,7 +257,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -348,7 +364,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -359,8 +375,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 11时47分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -439,6 +455,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.toutiao.com/trending/7674037560066441266/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗外交部长：伊朗尚未决定恢复与美国的谈判。",
+          "url": "https://flash.jin10.com/detail/20260815113243919800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗外长：美国必须满足（伊朗的）条件，才能恢复霍尔木兹海峡的航运。",
+          "url": "https://flash.jin10.com/detail/20260815112723569800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗外长：卡塔尔和巴基斯坦正在与我们交换信息，但这并不是谈判。伊朗与阿曼的会谈是独立进行的，重点关注霍尔木兹海峡的海上航线。",
+          "url": "https://flash.jin10.com/detail/20260815112659829800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时37分]"
+        },
+        {
+          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
+          "url": "https://flash.jin10.com/detail/20260815100007836800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
+        },
+        {
+          "title": "加拿大全球事务部：加拿大宣布对阻碍霍尔木兹海峡及其周边海域航行权利的伊朗个人实施额外制裁。",
+          "url": "https://flash.jin10.com/detail/20260815005008415800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://wallstreetcn.com/livenews/3149851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         }
       ]
     },
@@ -456,6 +568,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时03分 ~ 09时37分]"
+        },
+        {
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
         },
         {
           "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
@@ -481,17 +605,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3149812",
           "source": "华尔街见闻-快讯",
@@ -515,11 +628,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 10时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 11时47分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -529,22 +643,24 @@
             8,
             9,
             22,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 10时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 11时47分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -572,8 +688,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 11时47分]"
         },
         {
           "title": "金价急跌散户刚买就套",
@@ -593,7 +709,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -611,57 +727,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
-          "url": "https://flash.jin10.com/detail/20260815100007836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "伊朗方面的最新表态传递出哪些信号",
-          "url": "https://www.toutiao.com/trending/7673859930650054186/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时37分]"
-        },
-        {
-          "title": "加拿大全球事务部：加拿大宣布对阻碍霍尔木兹海峡及其周边海域航行权利的伊朗个人实施额外制裁。",
-          "url": "https://flash.jin10.com/detail/20260815005008415800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-          "url": "https://wallstreetcn.com/livenews/3149851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -673,8 +738,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 11时47分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
