@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T09:37:12.511114+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-08-15T10:57:17.515570+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
@@ -52,17 +52,6 @@
           "time_info": "04时37分"
         },
         {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
           "title": "美国总统特朗普：每周从委内瑞拉提取数百万桶石油。",
           "url": "https://flash.jin10.com/detail/20260815042454997800",
           "source": "金十数据",
@@ -72,6 +61,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时57分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时57分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时57分]"
         },
         {
           "title": "特朗普称将宣布霍尔木兹海峡为美领土",
@@ -85,26 +110,40 @@
           "time_info": "[09时36分 ~ 09时37分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "time_info": "[09时37分 ~ 10时57分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://wallstreetcn.com/livenews/3149900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "time_info": "[09时37分 ~ 10时57分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时57分]"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -118,6 +157,29 @@
           "time_info": "[04时36分 ~ 04时37分]"
         },
         {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时57分]"
+        },
+        {
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "美国总统特朗普：美国有能力摧毁伊朗，但我们不想这样做。",
           "url": "https://flash.jin10.com/detail/20260815042110296800",
           "source": "金十数据",
@@ -127,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         },
         {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
@@ -173,28 +224,6 @@
           "time_info": "04时37分"
         },
         {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://wallstreetcn.com/livenews/3149900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
           "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
           "url": "https://wallstreetcn.com/livenews/3149861",
           "source": "华尔街见闻-快讯",
@@ -206,15 +235,15 @@
           "time_info": "04时37分"
         },
         {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://flash.jin10.com/detail/20260815081235064800",
-          "source": "金十数据",
+          "title": "特朗普如何将马斯克重新拉回身边",
+          "url": "https://www.toutiao.com/trending/7674001293995675190/",
+          "source": "今日头条",
           "ranks": [
-            18
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "10时57分"
         },
         {
           "title": "特朗普料将出席白宫预测市场会议",
@@ -311,7 +340,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         }
@@ -326,11 +355,12 @@
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时57分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -414,7 +444,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
@@ -428,15 +458,38 @@
           "time_info": "[01时03分 ~ 09时37分]"
         },
         {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时57分]"
+        },
+        {
           "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
           "url": "https://flash.jin10.com/detail/20260815090110907800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
@@ -448,23 +501,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815080428529800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -472,11 +514,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 09时37分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 10时57分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -485,11 +528,23 @@
           "ranks": [
             8,
             9,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 09时37分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 10时57分]"
+        },
+        {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -506,8 +561,20 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价银价油价都涨了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时57分]"
+        },
         {
           "title": "金价急跌散户刚买就套",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E6%95%A3%E6%88%B7%E5%88%9A%E4%B9%B0%E5%B0%B1%E5%A5%97&t=31&band_rank=24&Refer=top",
@@ -521,14 +588,14 @@
         },
         {
           "title": "金价银价油价都涨了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
-          "source": "百度热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
@@ -537,47 +604,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时37分]"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
-          "url": "https://wallstreetcn.com/livenews/3149890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时37分"
         }
@@ -585,8 +612,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
+          "url": "https://flash.jin10.com/detail/20260815100007836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
         {
           "title": "伊朗方面的最新表态传递出哪些信号",
           "url": "https://www.toutiao.com/trending/7673859930650054186/",
@@ -620,6 +658,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时57分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时37分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         }
       ]
     },
